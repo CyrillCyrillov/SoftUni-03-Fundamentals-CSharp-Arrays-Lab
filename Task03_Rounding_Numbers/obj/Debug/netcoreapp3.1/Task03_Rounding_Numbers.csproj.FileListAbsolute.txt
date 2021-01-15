@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\03_Lab\Task03_Rounding_Numbers\bin\Debug\netcoreapp3.1\Task03_Rounding_Numbers.exe
+C:\Users\Kiril\source\repos\03_Lab\Task03_Rounding_Numbers\bin\Debug\netcoreapp3.1\Task03_Rounding_Numbers.deps.json
+C:\Users\Kiril\source\repos\03_Lab\Task03_Rounding_Numbers\bin\Debug\netcoreapp3.1\Task03_Rounding_Numbers.runtimeconfig.json
+C:\Users\Kiril\source\repos\03_Lab\Task03_Rounding_Numbers\bin\Debug\netcoreapp3.1\Task03_Rounding_Numbers.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\03_Lab\Task03_Rounding_Numbers\bin\Debug\netcoreapp3.1\Task03_Rounding_Numbers.dll
+C:\Users\Kiril\source\repos\03_Lab\Task03_Rounding_Numbers\bin\Debug\netcoreapp3.1\Task03_Rounding_Numbers.pdb
+C:\Users\Kiril\source\repos\03_Lab\Task03_Rounding_Numbers\obj\Debug\netcoreapp3.1\Task03_Rounding_Numbers.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\03_Lab\Task03_Rounding_Numbers\obj\Debug\netcoreapp3.1\Task03_Rounding_Numbers.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\03_Lab\Task03_Rounding_Numbers\obj\Debug\netcoreapp3.1\Task03_Rounding_Numbers.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\03_Lab\Task03_Rounding_Numbers\obj\Debug\netcoreapp3.1\Task03_Rounding_Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\03_Lab\Task03_Rounding_Numbers\obj\Debug\netcoreapp3.1\Task03_Rounding_Numbers.dll
+C:\Users\Kiril\source\repos\03_Lab\Task03_Rounding_Numbers\obj\Debug\netcoreapp3.1\Task03_Rounding_Numbers.pdb
+C:\Users\Kiril\source\repos\03_Lab\Task03_Rounding_Numbers\obj\Debug\netcoreapp3.1\Task03_Rounding_Numbers.genruntimeconfig.cache
