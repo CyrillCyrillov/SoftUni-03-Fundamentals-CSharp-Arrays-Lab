@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\03_Lab\Task08_Condense_Array_to_Number\bin\Debug\netcoreapp3.1\Task08_Condense_Array_to_Number.exe
+C:\Users\Kiril\source\repos\03_Lab\Task08_Condense_Array_to_Number\bin\Debug\netcoreapp3.1\Task08_Condense_Array_to_Number.deps.json
+C:\Users\Kiril\source\repos\03_Lab\Task08_Condense_Array_to_Number\bin\Debug\netcoreapp3.1\Task08_Condense_Array_to_Number.runtimeconfig.json
+C:\Users\Kiril\source\repos\03_Lab\Task08_Condense_Array_to_Number\bin\Debug\netcoreapp3.1\Task08_Condense_Array_to_Number.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\03_Lab\Task08_Condense_Array_to_Number\bin\Debug\netcoreapp3.1\Task08_Condense_Array_to_Number.dll
+C:\Users\Kiril\source\repos\03_Lab\Task08_Condense_Array_to_Number\bin\Debug\netcoreapp3.1\Task08_Condense_Array_to_Number.pdb
+C:\Users\Kiril\source\repos\03_Lab\Task08_Condense_Array_to_Number\obj\Debug\netcoreapp3.1\Task08_Condense_Array_to_Number.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\03_Lab\Task08_Condense_Array_to_Number\obj\Debug\netcoreapp3.1\Task08_Condense_Array_to_Number.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\03_Lab\Task08_Condense_Array_to_Number\obj\Debug\netcoreapp3.1\Task08_Condense_Array_to_Number.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\03_Lab\Task08_Condense_Array_to_Number\obj\Debug\netcoreapp3.1\Task08_Condense_Array_to_Number.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\03_Lab\Task08_Condense_Array_to_Number\obj\Debug\netcoreapp3.1\Task08_Condense_Array_to_Number.dll
+C:\Users\Kiril\source\repos\03_Lab\Task08_Condense_Array_to_Number\obj\Debug\netcoreapp3.1\Task08_Condense_Array_to_Number.pdb
+C:\Users\Kiril\source\repos\03_Lab\Task08_Condense_Array_to_Number\obj\Debug\netcoreapp3.1\Task08_Condense_Array_to_Number.genruntimeconfig.cache
